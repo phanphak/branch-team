@@ -1,0 +1,12 @@
+.profile{
+    width: 200px;
+    padding: 1px 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px gray;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
